@@ -8,6 +8,10 @@ HTML CSS Git Challenge, or Module 1's Challenge, is to refactor existing code fo
 
 CLone existing code from urban-octo-telegram to edit and update in personal repository.
 
+## Mock-Up
+
+<img src="./assets/images/Mock-Up.jpg"/>
+
 ## Usage
 
 To view this wesbite, open the HTML link here: https://stephenrossetti.github.io/Module-1-Challenge/.
@@ -21,3 +25,4 @@ Includes the starter code from urban-octo-telegram (Georgeyoo).
 ## License
 
 N/A.
+
