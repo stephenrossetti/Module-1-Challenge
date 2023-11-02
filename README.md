@@ -10,7 +10,9 @@ CLone existing code from urban-octo-telegram to edit and update in personal repo
 
 ## Usage
 
-To view this wesbite, open the HTML link. To review the code, open the GitHub repository.
+To view this wesbite, open the HTML link here: https://stephenrossetti.github.io/Module-1-Challenge/.
+
+To review the code, open the GitHub repository here: https://github.com/stephenrossetti/Module-1-Challenge.git.
 
 ## Credits
 
@@ -18,4 +20,4 @@ Includes the starter code from urban-octo-telegram (Georgeyoo).
 
 ## License
 
-Please refer to LICENSE in the repository.
+N/A.
