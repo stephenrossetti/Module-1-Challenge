@@ -11,6 +11,7 @@ CLone existing code from urban-octo-telegram to edit and update in personal repo
 ## Mock-Up
 
 ![alt text](https://github.com/stephenrossetti/Module-1-Challenge/blob/main/Develop/assets/images/Mock-Up.png)
+![alt text](https://github.com/stephenrossetti/Module-1-Challenge/blob/main/Develop/assets/images/Mock-Up2.png)
 
 ## Usage
 
